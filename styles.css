@@ -1,0 +1,18 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    /* background-color: cadetblue; */
+    background: linear-gradient(135deg, #16911c, #114b1b);
+}
+h2{
+    text-align: center;
+    border: 16px;
+    color: white;
+}
+iframe {
+    border: none; /* Elimina el borde del iframe */
+    width: 100vw; /* Ancho completo de la ventana */
+    height: 100vh; /* Alto completo de la ventana */
+}
